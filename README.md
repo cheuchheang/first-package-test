@@ -10,7 +10,7 @@ npm install times-table``
 ## 🔧 Usage
 
 ```bash
-const generateMultiplicationTable = require('simple-times-table');
+const generateMultiplicationTable = require('times-table');
 
 console.log(generateMultiplicationTable(5, 12));
 /*
