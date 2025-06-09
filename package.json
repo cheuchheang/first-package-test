@@ -1,0 +1,23 @@
+{
+  "name": "times-table",
+  "version": "1.0.0",
+  "description": "This is for generating the times table.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheuchheang/first-package-test.git"
+  },
+  "keywords": [
+    "multiplication",
+    "table"
+  ],
+  "author": "Cheuchheang Sear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheuchheang/first-package-test/issues"
+  },
+  "homepage": "https://github.com/cheuchheang/first-package-test#readme"
+}
